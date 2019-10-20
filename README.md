@@ -14,12 +14,8 @@ The Project was built by:
 The project page with more information is located here: 
 <https://2019.spaceappschallenge.org/challenges/planets-near-and-far/build-planet-workshop/teams/beun-team-twente/project>
 
-
-#### GUI Screenshot
-![](Screenshot.png)
-
 #### Video Demo
-[![](http://img.youtube.com/vi/MUQfKFzIOeU/0.jpg)](http://www.youtube.com/watch?v=MUQfKFzIOeU "The Planet Factory Prototype Demo")
+[![](http://img.youtube.com/vi/Hl8pLRbpFcw/0.jpg)]( https://www.youtube.com/embed/Hl8pLRbpFcw "The Planet Factory Prototype Demo")
 
 #### Machine Learning scripts and possible issues
 The Processing GUI calls a Python script which loads the Machine-learning classifier. It needs the absolute path to the Python binary (*system-dependent*). 
