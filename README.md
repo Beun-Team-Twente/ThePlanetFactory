@@ -16,6 +16,7 @@ The project page with more information is located here:
 
 #### Video Demo
 Click to view:
+
 [![](http://img.youtube.com/vi/Hl8pLRbpFcw/0.jpg)]( https://www.youtube.com/watch?v=Hl8pLRbpFcw&feature=youtu.be "The Planet Factory Prototype Demo")
 
 #### Machine Learning scripts and possible issues
