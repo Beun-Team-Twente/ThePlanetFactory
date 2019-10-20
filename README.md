@@ -19,7 +19,11 @@ The project page with more information is located here:
 ![](Screenshot.png)
 
 #### Video Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hl8pLRbpFcw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315"
+src="https://www.youtube.com/embed/MUQfKFzIOeU" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 #### Machine Learning scripts and possible issues
 The Processing GUI calls a Python script which loads the Machine-learning classifier. It needs the absolute path to the Python binary (*system-dependent*). 
